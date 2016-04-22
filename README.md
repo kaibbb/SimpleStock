@@ -1,5 +1,5 @@
 # SimpleStock
-![] (http://7xp7k7.com1.z0.glb.clouddn.com/3.pic.jpg?imageMogr2/thumbnail/!28p)
+![] (http://7xp7k7.com1.z0.glb.clouddn.com/3.pic.jpg?imageMogr2/thumbnail/!24p)
 ![] (http://7xp7k7.com1.z0.glb.clouddn.com/2.pic.jpg?imageMogr2/thumbnail/!30p)
 ![] (http://7xp7k7.com1.z0.glb.clouddn.com/1.pic.jpg?imageMogr2/thumbnail/!30p)
 
